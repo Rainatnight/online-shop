@@ -1,5 +1,5 @@
 <?php 
-include ("/home/CREAT0RS/nagornyi.a_qschool/p3/htdocs/src/getCars.php");
+include ("/src/getCars.php");
 $cars = getCars ();
 foreach ($cars as $k => $v) { ?>
     <div class="bg-white w-full border border-gray-100 rounded overflow-hidden shadow-lg hover:shadow-2xl pt-4"> <a class="block w-full h-40" href="#"><img class="w-full h-full hover:opacity-90 object-cover" src="<?php echo $v['image']; ?>"  alt="<?php $v['name'] ?>"></a>
