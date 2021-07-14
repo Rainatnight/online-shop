@@ -1,5 +1,5 @@
 <?php 
-$dirr = '/home/CREAT0RS/nagornyi.a_qschool/p3/htdocs/';
+$dirr = '/';
 
 ?>
 <!doctype html>
