@@ -1,5 +1,5 @@
 <?php 
-include ("/home/CREAT0RS/nagornyi.a_qschool/p3/htdocs/src/getMenu.php");
+include ("/src/getMenu.php");
 function menu () 
 {   
 	$menuArr = getMenu ();
