@@ -1,5 +1,5 @@
 <?php
-include ("/home/CREAT0RS/nagornyi.a_qschool/p3/htdocs/src/core.php");
+include ("/src/core.php");
 ?>
 <header class="bg-white">
         <div class="border-b">
@@ -33,7 +33,7 @@ include ("/home/CREAT0RS/nagornyi.a_qschool/p3/htdocs/src/core.php");
         </div>
         <div class="border-b">
             <div class="container mx-auto overflow-hidden px-4 sm:px-6">
-                <?php include ("/home/CREAT0RS/nagornyi.a_qschool/p3/htdocs/templates/menu.php"); ?>
+                <?php include ("/templates/menu.php"); ?>
             </div>
         </div>
     </header> 
